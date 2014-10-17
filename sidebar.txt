@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pic:home|Door43 (pic)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pic|d43-pic repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pic/archive/master.zip|d43-pic.zip]]
+
+**Recent Changes**
+{{changes>ns = pic}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pic|Ethnologue data]]
+
